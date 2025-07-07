@@ -1,12 +1,12 @@
 name: disk_space_2
 description: "A Flutter package that provides an easy way to get disk space information on Android, iOS, Linux, and Windows devices."
-version: 1.0.9
+version: 1.0.10
 homepage: https://activecoding.de.cool/
 repository: https://github.com/tom-ludwig/disk_space_2
 
 environment:
-  sdk: '>=3.4.3 <4.0.0'
-  flutter: '>=3.3.0'
+  sdk: ">=3.4.3 <4.0.0"
+  flutter: ">=3.3.0"
 
 dependencies:
   flutter:
