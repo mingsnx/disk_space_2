@@ -36,7 +36,7 @@ target_include_directories(${PLUGIN_NAME} PRIVATE
   ${GTK_INCLUDE_DIRS}
 )
 
-target_compile_options(${PLUGIN_NAME} PRIVATE ${GTK_CFLAGS_OTHER})
+target_compile_options(${PLUGIN_NAME} PRIVATE ${GTK_CFLAGS} ${GTK_CFLAGS_OTHER})
 
 target_link_libraries(${PLUGIN_NAME} PRIVATE
   flutter
