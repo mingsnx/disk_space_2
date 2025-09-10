@@ -1,3 +1,7 @@
+## 1.0.11
+
+- Fix linux support by improving cmakelist
+
 ## 1.0.10
 
 - Improvments to the Andorid version
